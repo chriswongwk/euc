@@ -6,8 +6,7 @@
   :name: _labs
   :hidden:
 
-  examplelab1/examplelab1
-  examplelab2/examplelab2
+  afs/afs
 
 .. toctree::
   :maxdepth: 2
@@ -15,7 +14,7 @@
   :name: _optional_labs
   :hidden:
 
-  examplelab3/examplelab3
+  citrix/citrix
 
 .. toctree::
   :maxdepth: 2
